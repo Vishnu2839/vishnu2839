@@ -1,6 +1,6 @@
 ## Hi there 👋 I am Vishnu
 <h3 align="left">Skills:</h3>
-<img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,wordpress,figma,postman,linux,arduino,java,mongodb,mysql,androidstudio," />
+<img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,figma,linux,arduino,java,mongodb,mysql," />
 <!--
 **Vishnu2839/vishnu2839** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
