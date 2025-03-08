@@ -2,7 +2,7 @@
 <h3 align="left">Skills:</h3>
 <img src="https://skillicons.dev/icons?i=html,css,js,c,cpp,figma,linux,arduino,java,mongodb,mysql," />
 ## Education:
-<img src="https://scet.berkeley.edu/wp-content/uploads/8.-SRM-Logo-300x300.png" width="20" /> Bachelors in CSE with Specialization in AI and ML 2023-2027 
+<img src="https://scet.berkeley.edu/wp-content/uploads/8.-SRM-Logo-300x300.png" width="20" />Bachelors in CSE with Specialization in AI and ML 2023-2027 
 <!--
 **Vishnu2839/vishnu2839** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
