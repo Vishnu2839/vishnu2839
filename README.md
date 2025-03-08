@@ -10,6 +10,7 @@
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishnuvadlamudi90@gmail.com)
 
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=vishnu2839&theme=dark" alt="GitHub Streak" /></a>
 
 <!--
 **Vishnu2839/vishnu2839** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
