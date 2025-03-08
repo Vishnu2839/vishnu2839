@@ -11,11 +11,12 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vishnuvadlamudi90@gmail.com)
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vishnu2839&show_icons=true&theme=tokyonight&locale=en" alt="vishnu2839" /></p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vishnu2839&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="vishnu2839" />
-</p><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=vishnu2839&theme=dark" alt="GitHub Streak" /></a>
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Vishnu2839&theme=dark)](https://git.io/streak-stats)
+
+[![Vishnu's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vishnu2839&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Vishnu2839/vishnu2839** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
