@@ -2,7 +2,10 @@
 
 <h1 align="center">👋 Hey there, I'm Vishnu Vardhan Vadlamudi </h1>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=550&lines=Deep+Learning+%26+Neural+Networks;Machine+Learning+Specialist;Data+Science+%26+Predictive+Modeling)](https://git.io/typing-svg)
+<h3> Interested in: </h3>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=550&lines=Artificial+Intelligence+and+Machine+Learning;Deep+Learning+and+Predictive+Models;Data+Science+and+Full+Stack" alt="Typing SVG" />
+</a>
 
 </div>
 
@@ -31,7 +34,7 @@
 **Languages & Full-Stack Frameworks**
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,c,js,html,css,react,nextjs,nodejs,flask,threejs,tailwind&theme=light" alt="Languages & Frameworks" />
+    <img src="https://skillicons.dev/icons?i=py,c,js,html,css,react,nextjs,nodejs,tailwind&theme=light" alt="Languages & Frameworks" />
   </a>
 </div>
 
@@ -45,26 +48,27 @@
   &nbsp;
   <img src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" height="48" style="border-radius: 5px;"/>
   <img src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white" height="48" style="border-radius: 5px;"/>
-  <img src="https://img.shields.io/badge/-HuggingFace-F9AB00?style=flat-square&logo=huggingface&logoColor=white" height="48" style="border-radius: 5px;"/>
-  <img src="https://img.shields.io/badge/-MLflow-0194E2?style=flat-square&logo=mlflow&logoColor=white" height="48" style="border-radius: 5px;"/>
 </div>
 
 <br/>
 
-**DevOps, Databases & Workflow**
+**DevOps, Deployment, Databases & Workflow**
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,jenkins,mongodb,mysql,aws,gcp,figma,linux&theme=light" alt="Tools" />
+    <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,jenkins,vercel,mysql,figma,linux&theme=light" alt="Tools" />
   </a>
+  &nbsp;
 </div>
 
 <br/>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
-### 🎨 Open Source Footprint
+
 
 <div align="left">
+  
+  &nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishnu2839&theme=radical&hide_border=true&border_radius=10&background=0D1117" alt="GitHub Streak" height="150" />
 </div>
 
