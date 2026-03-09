@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1 align="center">👋 Hey there, I'm Vishnu Vardhan Vadlamudi </h1>
+<h1 align="center">👋 Hey there, I'm Vishnuvardhan Vadlamudi </h1>
 
 <h3> Interested in: </h3>
 <a href="https://git.io/typing-svg">
