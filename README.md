@@ -1,26 +1,13 @@
 <div align="center">
-
 <h1 align="center">👋 Hey there, I'm Vishnuvardhan Vadlamudi</h1>
-
 <p align="center">
   <b>Computer Science Student @ SRM Institute of Science and Technology</b><br/>
-  Specializing in <b>Artificial Intelligence</b> & <b>Machine Learning</b> — building data-driven solutions and scalable software.
+  Specializing in <b>Artificial Intelligence</b> & <b>Machine Learning</b>.
 </p>
-
+<h4> Interested in: </h4> 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+and+Machine+Learning;Deep+Learning+and+Predictive+Models;Data+Science+and+Full+Stack+Development;Always+learning+%E2%80%A2+Always+building" alt="Typing SVG" />
 </a>
-
-<p align="center">
-  <a href="mailto:vishnuvadlamudi90@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  &nbsp;
-  <a href="https://www.linkedin.com/in/vishnuvardhan-vadlamudi-619541355/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-</p>
-
 </div>
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
