@@ -64,6 +64,12 @@
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" />
 
+<div align="left">
+  &nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vishnu2839&theme=radical&hide_border=true&border_radius=10&background=0D1117" alt="GitHub Streak" height="150" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Vishnu2839&layout=compact&theme=radical&hide_border=true&border_radius=10&bg_color=0D1117" alt="Most Used Languages" height="150" />
+</div>
 
 <br/>
 
