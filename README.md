@@ -29,7 +29,7 @@
 
 ## 🌈 Technical Arsenal
 
-### 🔹 Languages & Full‑Stack Frameworks
+ 🔹 Languages & Full‑Stack Frameworks
 <div align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=py,c,js,html,css,react,nextjs,nodejs,tailwind&theme=light" alt="Languages & Frameworks" />
@@ -38,7 +38,7 @@
 
 <br/>
 
-### 🔹 Data Science, ML & Deep Learning
+ 🔹 Data Science, ML & Deep Learning
 <div align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn&theme=light" alt="AI & ML" />
@@ -50,7 +50,7 @@
 
 <br/>
 
-### 🔹 DevOps • Deployment • Databases • Tools
+ 🔹 DevOps • Deployment • Databases • Tools
 <div align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=git,github,docker,kubernetes,jenkins,vercel,mysql,figma,linux&theme=light" alt="Tools" />
