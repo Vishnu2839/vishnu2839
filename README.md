@@ -6,7 +6,7 @@
 </p>
 <h4> Interested in: </h4> 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+and+Machine+Learning;Deep+Learning+and+Predictive+Models;Data+Science+and+Full+Stack+Development;Always+learning+%E2%80%A2+Always+building" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=700&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=700&lines=Artificial+Intelligence+and+Machine+Learning;Deep+Learning+and+Predictive+Models;Data+Science+and+Full+Stack+Development" alt="Typing SVG" />
 </a>
 </div>
 
