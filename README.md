@@ -32,7 +32,7 @@
  🔹 Languages & Full‑Stack Frameworks
 <div align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,c,cpp,js,html,css,react,nextjs,nodejs,tailwind&theme=light" alt="Languages & Frameworks" />
+    <img src="https://skillicons.dev/icons?i=py,cpp,js,html,css,react,nodejs,tailwind&theme=light" alt="Languages & Frameworks" />
   </a>
 </div>
 
